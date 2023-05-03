@@ -8,7 +8,7 @@
     - BT
     - LEA
     - Microsoft
-        - [Swift Pair](Technology/Microsoft/Swift_Pair/Markdown/2022-08-17-Technology-Microsoft-Swift-Pair.md)
+        - [Swift Pair](Technology/Microsoft/Swift_Pair/2022-08-17-Technology-Microsoft-Swift-Pair.md)
     - Google
         - GFPS
         - SASS
@@ -26,6 +26,7 @@
 ---
 
 - Scenario
+    - [在 BT Settings 中设备名显示了两次](Scenario/Two_Names_Are_Shown_In_The_BT_Settings/2023-05-03-Two-Names-Are-Shown-In-The-BT-Settings.md)
 
 ---
 
