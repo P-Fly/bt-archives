@@ -27,6 +27,7 @@
 
 - Scenario
     - [在 BT Settings 中设备名显示了两次](Scenario/Two_Names_Are_Shown_In_The_BT_Settings/2023-05-03-Two-Names-Are-Shown-In-The-BT-Settings.md)
+    - [当 LEA 广播存在时，如何控制回连行为](Scenario/How_To_Control_The_Reconnection_Behavior_When_LEA_Advertising_Is_Exist/2023-05-03-How-To-Control-The-Reconnection-Behavior-When-LEA-Advertising-Is-Exist.md)
 
 ---
 
