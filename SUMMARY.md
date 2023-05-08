@@ -7,6 +7,7 @@
 - Technology
     - BT
     - LEA
+        - [LEA 架构](Technology/LEA/2023-05-08-Technology-LEA-New-Architecture.md)
     - Microsoft
         - [Swift Pair](Technology/Microsoft/Swift_Pair/2022-08-17-Technology-Microsoft-Swift-Pair.md)
     - Google
