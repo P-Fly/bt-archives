@@ -15,7 +15,7 @@
         - SASS
         - SPOT
     - Samsung
-        - MDE
+        - [MDE](Technology/Samsung/MDE/2023-05-28-Technology-Samsung-MDE.md)
 
 ---
 
