@@ -52,15 +52,15 @@
 
                 | | | | |
                 | :-: | :-: | :-: | :- |
-                | \[ 7 : 6 \] | Connection Status | 0b00 | 00: disconnected <br> 01: connected <br> 11: fully connected state (No more connection available) <br> 10: reconnection failure |
-                | \[ 5 : 3 \] | Max account number | 0b001 | The number of devices which can be registered simultaneously. |
-                | \[ 2 : 0 \] | Account count | 0b000 | The number of accounts that is registered. |
+                | \[7:6\] | Connection Status | 0b00 | 00: disconnected <br> 01: connected <br> 11: fully connected state (No more connection available) <br> 10: reconnection failure |
+                | \[5:3\] | Max account number | 0b001 | The number of devices which can be registered simultaneously. |
+                | \[2:0\] | Account count | 0b000 | The number of accounts that is registered. |
 
             - Index **10**
 
                 | | | | |
                 | :-: | :-: | :-: | :- |
-                | \[ 7 : 0 \] | Sequence Number | 0x00 | Increase 1 every "power on" or "pairing mode" action. |
+                | \[7:0\] | Sequence Number | 0x00 | Increase 1 every "power on" or "pairing mode" action. |
 
             - Index **11 - 15**
 
@@ -79,13 +79,13 @@
                 | | | | | |
                 | :-: | :-: | :-: | :-: | :- |
                 | 25 - 30 | - | BT Mac Addr | - | Bluetooth Classic Mac Address XOR with BLE address for security reason. |
-                | 31 | \[ 7 \] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in %. |
-                | | \[ 6 : 0 \] | Battery Level – case or solo device | 0 | If 1 in battery precision, then % value will not be display <br> 0x7F if not support |
-                | 32 | \[ 7 \] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in % |
-                | | \[ 6 : 0 \] | Battery Level – left | 0 | If 1 in battery precision, then value will not be display <br> 0x7F if not support |
-                | 33 | \[ 7 \] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in % |
-                | | \[ 6 : 0 \] | Battery Level – right | 0 | If 1 in battery precision, then value will not be display <br> 0x7F if not support |
-                | 34 | - | - | 0x00 | Mandatory value is 0x00 |
+                | 31 | \[7\] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in %. |
+                | | \[6:0\] | Battery Level – case or solo device | 0 | If 1 in battery precision, then % value will not be display <br> 0x7F if not support |
+                | 32 | \[7\] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in % |
+                | | \[6:0\] | Battery Level – left | 0 | If 1 in battery precision, then value will not be display <br> 0x7F if not support |
+                | 33 | \[7\] | Battery Precision | 0b1 | 0: Can be express value in % <br> 1: Cannot be express value in %, so express approximate value in % |
+                | | \[6:0\] | Battery Level – right | 0 | If 1 in battery precision, then value will not be display <br> 0x7F if not support |
+                | 34 | \[7:0\] | - | 0x00 | Mandatory value is 0x00 |
 
     - 广播细节
 
