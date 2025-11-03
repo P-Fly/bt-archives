@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
+><annots
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251106141933+08'00'" flags="print" date="D:20251106141938+08'00'" name="a2cb64f7-328b-4d86-a6b7-d42a7541fbd0" page="1626" coords="72,685.020000,511.572000,685.020000,72,668.676000,511.572000,668.676000,72.000100,669.876000,438.180000,670.020000,72.000100,653.676000,438.180000,653.676000,438.180000,670.909000,463.227000,670.909000,438.180000,653.676000,463.227000,653.676000" rect="71.489243,653.137451,512.082764,685.530762" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>使用AES-128加解密</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="1626" rect="612,593.020000,796,685.020000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107103311+08'00'" flags="print" date="D:20251107103710+08'00'" name="d3cd6176-ef7a-4382-8805-a50129d25248" page="2888" coords="72.000015,639.036865,516.875427,639.036865,72.000015,622.693054,516.875427,622.693054,72.000061,624.036865,534.191406,624.036865,72.000061,607.693054,534.191406,607.693054,72.000107,609.036865,171.359909,609.036865,72.000107,592.693054,171.359909,592.693054" rect="71.489273,592.182312,534.702148,639.547607" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>总共40 Channels，[Vol 6] Part B, 1.4.1中有详细的物理信道的映射。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2888" rect="612,547.036865,796,639.036865"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107103313+08'00'" flags="print" date="D:20251107104035+08'00'" name="b26f9ffe-e9b0-403b-9ac7-838616417f0e" page="2888" coords="72.000107,582.036865,499.511841,582.036865,72.000107,565.693054,499.511841,565.693054,72.000153,567.036865,527.219360,567.036865,72.000153,550.693054,527.219360,550.693054,72.000198,552.036865,142.056168,552.036865,72.000198,535.693054,142.056168,535.693054" rect="71.489365,535.182312,527.730103,582.547607" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>CS = Channel Selection / Channel Sequence。&#xD;正好跳过了Primary Advertising Channels。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2888" rect="612,490.036865,796,582.036865"
+/></highlight
+><square color="#DB3425" creationdate="D:20251103100314+08'00'" flags="print" date="D:20251103102148+08'00'" name="b82417be-1185-4437-9407-b9cd3b67eae6" page="2923" fringe="0.500000,0.500000,0.500000,0.500000" rect="55.722000,430.992000,271.310000,594.221000" subject="Rectangle" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>BLE链路层状态机的状态集</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2923" rect="612,497.858000,796,589.858000"
+/></square
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251103104815+08'00'" flags="print" date="D:20251103105109+08'00'" name="4e8c331b-a8c5-4dcc-8995-fb77c0b578ed" page="2923" coords="464.850000,422.991000,510.870000,422.991000,464.850000,406.648000,510.870000,406.648000,71.994300,407.991000,533.562000,407.991000,71.994300,391.648000,533.562000,391.648000,71.994300,392.991000,198.066000,392.991000,71.994300,376.648000,198.066000,376.648000" rect="71.483566,376.137268,534.072754,423.501709" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.4pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>Advertising和Scanning两个状态至少需要支持一个.</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2923" rect="612,330.991000,796,422.991000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251103111057+08'00'" flags="print" date="D:20251103111057+08'00'" name="d3cb7276-7938-497f-9476-fa3af253c981" page="2923" coords="71.994400,304.310000,531.510000,304.310000,71.994400,287.966000,531.510000,287.966000,71.994500,289.310000,501.546000,289.310000,71.994500,272.966000,501.546000,272.966000,71.994600,274.310000,270.078000,274.310000,71.994600,257.966000,270.078000,257.966000" rect="71.483643,257.455261,532.020752,304.820740" subject="Highlight" title="Peter.Peng"
+><popup flags="print,nozoom,norotate" open="no" page="2923" rect="612,212.310000,796,304.310000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251103111103+08'00'" flags="print" date="D:20251103111103+08'00'" name="0d8c8b4f-6d82-4bd0-aa08-1a2a1aab9064" page="2923" coords="71.994600,229.969000,521.526000,229.969000,71.994600,213.625000,521.526000,213.625000,71.994700,214.969000,290.082000,214.969000,71.994700,198.625000,290.082000,198.625000" rect="71.483841,198.114243,522.036743,230.479752" subject="Highlight" title="Peter.Peng"
+><popup flags="print,nozoom,norotate" open="no" page="2923" rect="612,137.969000,796,229.969000"
+/></highlight
+><square color="#DB3425" creationdate="D:20251103162243+08'00'" flags="print" date="D:20251103162332+08'00'" name="dfb99bce-0a54-44fb-8373-baaf7a54ea90" page="2924" fringe="0.500000,0.500000,0.500000,0.500000" rect="61.730500,641.288000,270.452000,692.073000" subject="Rectangle" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>Central Role: 手机&#xD;Peripheral Role: 耳机/音箱</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2924" rect="612,599.573000,796,691.573000"
+/></square
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251103162514+08'00'" flags="print" date="D:20251103162514+08'00'" name="09c99c28-d571-492a-99a0-b223efe3bc30" page="2924" coords="72.000100,582.287000,512.159000,582.287000,72.000100,565.943000,512.159000,565.943000,72.000200,567.287000,316.764000,567.287000,72.000200,550.943000,316.764000,550.943000" rect="71.489349,550.432251,512.669739,582.797729" subject="Highlight" title="Peter.Peng"
+><popup flags="print,nozoom,norotate" open="no" page="2924" rect="612,490.287000,796,582.287000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251104113311+08'00'" flags="print" date="D:20251104113318+08'00'" name="953ddc67-12e8-4e9f-84ef-ad75ca5968cb" page="2926" coords="71.998300,441.931000,184.796000,441.931000,71.998300,421.995000,184.796000,421.995000" rect="71.375305,421.372009,185.419006,442.554016" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>在数据包或PDU中，位序是小端格式。&#xD;1. LSB对应于b0。&#xD;2. LSB是传输的第一个比特值。&#xD;3. 插图中LSB在左侧。&#xD;&#xD;二进制字段值或多字节字段值的MSB在左侧。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2926" rect="612,349.931000,796,441.931000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251104223013+08'00'" flags="print" date="D:20251104235619+08'00'" name="67c4ecc5-d9d8-4625-a224-6f5009a66a52" page="2927" coords="71.994600,430.387000,497.107000,430.387000,71.994600,414.043000,497.107000,414.043000,71.994700,415.387000,504.834000,415.387000,71.994700,399.043000,504.834000,399.043000,71.994700,400.387000,333.451000,400.387000,71.994700,384.043000,333.451000,384.043000" rect="71.483841,383.532227,505.344757,430.897766" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>对于Identity Address的理解：&#xD;1. Public Device Address或Random Static Device Address可以作为Identity Address‌。&#xD;2. 如果设备仅使用Non-Resolvable Private Address，也不牵涉地址解析等隐私功能，则可能不需要Identity Address‌。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2927" rect="612,338.387000,796,430.387000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251104224309+08'00'" flags="print" date="D:20251104235941+08'00'" name="07efee18-dd71-4213-86ca-a6bee11d939b" page="2927" coords="71.994800,370.987000,538.854000,370.987000,71.994800,354.643000,538.854000,354.643000,71.994800,355.987000,140.695000,355.987000,71.994800,339.643000,140.695000,339.643000" rect="71.484039,339.132263,539.364746,371.497742" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>BLE地址相等是指Device Address和Address Type都相等。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2927" rect="612,278.987000,796,370.987000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251104234844+08'00'" flags="print" date="D:20251104235514+08'00'" name="3db2da4a-b80d-48e0-9974-c5aaaca05bd2" page="2927" coords="71.994400,534.187000,520.218000,534.187000,71.994400,517.843000,520.218000,517.843000,71.994400,519.187000,520.854000,519.187000,71.994400,502.843000,520.854000,502.843000,71.994500,504.187000,414.174000,504.187000,71.994500,487.843000,414.174000,487.843000" rect="71.483643,487.332245,521.364746,534.697754" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>设备通过Device Address和Address Type进行识别。&#xD;地址类型可以为Public Device Address和Random Device Address。&#xD;地址长度均为48Bits。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2927" rect="612,442.187000,796,534.187000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251105212629+08'00'" flags="print" date="D:20251105212636+08'00'" name="958d994a-cb2b-4ebc-aad9-a0c39e00d657" page="2927" coords="71.994500,474.787000,521.562000,474.787000,71.994500,458.443000,521.562000,458.443000,71.994600,459.787000,358.134000,459.787000,71.994600,443.443000,358.134000,443.443000" rect="71.483749,442.932251,522.072754,475.297760" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>至少使用一种地址类型，可以同时使用两种。可以使用任何地址进行寻址。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2927" rect="612,382.787000,796,474.787000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251106000445+08'00'" flags="print" date="D:20251106000456+08'00'" name="63050236-211e-4c27-b3a9-a84e320b805f" page="2927" coords="72.004300,566.489000,208.182000,566.489000,72.004300,546.553000,208.182000,546.553000" rect="71.381302,545.929993,208.805008,567.112000" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>- Public Device Address&#xD;&#xD;- Random Device Address&#xD;&#xD;    - Static Device Address [47:46] = 0b11&#xD;    &#xD;    - Private Device Address&#xD;    &#xD;        - Non-Resolvable Private Address [47:46] = 0b00&#xD;&#xD;        - Resolvable Private Address [47:46] = 0b01</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2927" rect="612,474.489000,796,566.489000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251105220521+08'00'" flags="print" date="D:20251105220524+08'00'" name="830c84f9-31c6-4179-a3c0-a2a5c30937b2" page="2928" coords="72.004000,240.234000,511.528000,240.234000,72.004000,223.890000,511.528000,223.890000,72.004100,225.234000,532.876000,225.234000,72.004100,208.890000,532.876000,208.890000,72.004200,210.234000,157.360000,210.234000,72.004200,193.890000,157.360000,193.890000" rect="71.493240,193.379242,533.386780,240.744751" subject="高亮" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>换句话说就是每次上电时生成Random Device Address，然后运行时该地址不能变化。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2928" rect="612,148.234000,796,240.234000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251106124624+08'00'" flags="print" date="D:20251106142629+08'00'" name="f8d5cb36-b70c-43ea-8c6f-e2681fcd00d0" page="2930" coords="72.004300,370.405000,292.103000,370.405000,72.004300,354.741000,292.103000,354.741000" rect="71.514801,354.251495,292.592499,370.894501" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>此阶段已经通过Key Distribution，拿到了Peer IRK。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2930" rect="612,278.405000,796,370.405000"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107112138+08'00'" flags="print" date="D:20251107112839+08'00'" name="b2ec7da2-3593-4a2a-a238-129a60873e72" page="2931" coords="72.004440,459.786865,522.207886,459.786865,72.004440,443.443054,522.207886,443.443054,72.004517,444.786865,514.887939,444.786865,72.004517,428.443054,514.887939,428.443054,72.004562,429.786865,504.208191,429.786865,72.004562,413.443054,504.208191,413.443054,72.004623,414.786865,512.163635,414.786865,72.004623,398.443054,512.163635,398.443054,72.004700,399.786865,517.539856,399.786865,72.004700,383.443054,517.539856,383.443054,72.004791,384.786865,436.168243,384.786865,72.004791,368.443054,436.168243,368.443054" rect="71.493698,367.932312,522.718628,460.297607" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>LE Physical Channel:&#xD;	- Advertising Physical Channel&#xD;		- Primary Advertising Physical Channel -&gt; RF Primary Advertising Channel&#xD;		- Secondary Advertising Physical Channel -&gt; RF General-Purpose Channel&#xD;	- Periodic Physical Channel -&gt; RF General-Purpose Channel&#xD;	- Isochronous Physical Channel -&gt; RF General-Purpose Channel&#xD;	- Data Physical Channel -&gt; RF General-Purpose Channel</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2931" rect="612,367.786865,796,459.786865"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107105159+08'00'" flags="print" date="D:20251107112855+08'00'" name="bdd5fe99-1b4d-40b2-9d2e-9247e1092e60" page="2931" coords="130.036209,549.186890,521.115417,549.186890,130.036209,532.843079,521.115417,532.843079,72.004288,534.186890,518.439758,534.186890,72.004288,517.843079,518.439758,517.843079,72.004333,519.186890,532.743469,519.186890,72.004333,502.843048,532.743469,502.843048,72.004379,504.186859,162.028183,504.186859,72.004379,487.843048,162.028183,487.843048" rect="71.493546,487.332306,533.254211,549.697632" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>RF Channel:&#xD;	- Primary Advertising Channel (3 Chs)&#xD;	- General-Purpose Channel (37 Chs)</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2931" rect="612,457.186890,796,549.186890"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107155951+08'00'" flags="print" date="D:20251107160329+08'00'" name="22f4b77c-7f53-4aab-a523-75d043b5947f" page="2931" coords="487.960754,250.986877,526.636841,250.986877,487.960754,234.643066,526.636841,234.643066,72.005203,235.986877,116.021194,235.986877,72.005203,219.643066,116.021194,219.643066" rect="71.494461,219.132324,527.147583,251.497620" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>Access Address是Link Layer用于区分空中报文属于哪个连接流的标识符。&#xD;Initiator生成AA，并在CONNECT_REQ中传给Advertiser。&#xD;Advertising channel上Advertising/Scanning/Connecting时，使用的AA是固定值。</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2931" rect="612,158.986877,796,250.986877"
+/></highlight
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251107161102+08'00'" flags="print" date="D:20251107161127+08'00'" name="6c9e89bf-d700-475a-a1b0-a86d60df4e2e" page="2931" coords="328.121033,147.186829,534.640869,147.186829,328.121033,130.843018,534.640869,130.843018" rect="327.610291,130.332275,535.151611,147.697571" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>三个参数都对了，就表示连上了或者同步上了</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2931" rect="612,55.186829,796,147.186829"
+/></highlight
+><square color="#DB3425" creationdate="D:20251107160812+08'00'" flags="print" date="D:20251107161656+08'00'" name="399c680b-4caa-44da-8407-920091bf1e48" page="2932" fringe="0.500000,0.500000,0.500000,0.500000" rect="65.007736,359.418152,548.790771,636.806946" subject="Rectangle" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>Mapping of RF channel to physical channel index and RF channel group.</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2932" rect="612,543.858276,796,635.858276"
+/></square
+><highlight color="#FF6200" opacity="0.399994" creationdate="D:20251117151738+08'00'" flags="print" date="D:20251117153309+08'00'" name="56a8459c-fa78-41fd-a0ff-f9c0b788091f" page="2933" coords="71.994293,222.209717,524.502075,222.209717,71.994293,205.865906,524.502075,205.865906,71.994339,207.209717,118.002151,207.209717,71.994339,190.865906,118.002151,190.865906" rect="71.483551,190.355164,525.012817,222.720459" subject="Highlight" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>传输时间 = 空中比特数 ÷ PHY 速率&#xD;&#xD;最短时间44μs：LE 2M，PDU Payload = 0&#xD;bytes = preamble(2) + AA(4) + header(2) + payload(0) + CRC(3) = 11&#xD;时间 = 11 * 8 bits / 2 000 000 bps = 44 μs&#xD;&#xD;最长时间2128μs：LE 1M，PDU Payload = 256&#xD;bytes = preamble(1) + AA(4) + header(2) + payload(256) + CRC(3) = 266&#xD;时间 = 266 * 8 bits / 1 000 000 bps = 2128 μs</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2933" rect="612.000000,130.209717,796.000000,222.209717"
+/></highlight
+><square color="#DB3425" creationdate="D:20251117151215+08'00'" flags="print" date="D:20251117151231+08'00'" name="39af67ce-48ac-4bfa-9f90-0dd0efe1b515" page="2933" fringe="0.500000,0.500000,0.500000,0.500000" rect="58.887070,362.126160,554.428955,440.381927" subject="Rectangle" title="Peter.Peng"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:-13.7pt;text-align:left;color:#000000;font-weight:normal;font-style:italic"
+>Link Layer packet format for the LE Uncoded PHYs</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2933" rect="612.000000,347.881927,796.000000,439.881927"
+/></square
+></annots
+><f href="Core_v6.0.pdf"
+/><ids original="1C4FE2FFCDF2B3767A6EBD4916D9F903" modified="D2BBBAA6C300224780F916048F2A184A"
+/></xfdf
+>
